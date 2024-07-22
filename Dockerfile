@@ -1,0 +1,1 @@
+FROM aomountainu/openjdk21
